@@ -1,6 +1,6 @@
 package com.plibrary.entity;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 import lombok.Data;
 
 @Entity
